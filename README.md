@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Vercel Deploy](https://img.shields.io/badge/Live%20Demo-Active-violet?style=for-the-badge&logo=vercel&logoColor=white&color=6366f1)](https://YOUR-VERCEL-DEPLOYMENT-URL.vercel.app)
-[![GitHub License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&color=475569)](https://github.com/ShivanshPandey2005/AI_Interview_Coach)
+[![GitHub License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&color=475569)](https://github.com/ShivanshPandey2005/PlacementGPT)
 
 </div>
 
@@ -81,8 +81,8 @@ PlacementGPT is built with high-fidelity, resilient developer backups:
 ### 1. Clone & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/ShivanshPandey2005/AI_Interview_Coach.git
-cd AI_Interview_Coach
+git clone https://github.com/ShivanshPandey2005/PlacementGPT.git
+cd PlacementGPT
 
 # Install node dependencies
 npm install
