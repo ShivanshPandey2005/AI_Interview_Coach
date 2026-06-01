@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Vercel Deploy](https://img.shields.io/badge/Live%20Demo-Active-violet?style=for-the-badge&logo=vercel&logoColor=white&color=6366f1)](https://YOUR-VERCEL-DEPLOYMENT-URL.vercel.app)
+[![Vercel Deploy](https://img.shields.io/badge/Live%20Demo-Active-violet?style=for-the-badge&logo=vercel&logoColor=white&color=6366f1)](https://placementgpt.vercel.app)
 [![GitHub License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&color=475569)](https://github.com/ShivanshPandey2005/PlacementGPT)
 
 </div>
